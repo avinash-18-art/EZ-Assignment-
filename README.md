@@ -51,7 +51,7 @@ A secure file-sharing system built with **Node.js**, **MongoDB**, and **JWT-base
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/file-sharing-system.git
+   git clone https://github.com/avinash-18-art/EZ-Assignment-.git
    cd file-sharing-system
 
    ```
